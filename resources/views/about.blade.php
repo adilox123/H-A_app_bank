@@ -4,7 +4,7 @@
 @section('content')
 <div class="page-hero">
     <div class="container text-center">
-        <h1 class="display-4">À propos de Hiba Bank</h1>
+        <h1 class="display-4">À propos de A&H Bank</h1>
         <p class="lead">Votre partenaire financier de confiance</p>
     </div>
 </div>

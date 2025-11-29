@@ -59,7 +59,7 @@
         <h3>6. Contact</h3>
         <p>Pour toute question sur la confidentialité :</p>
         <p>
-            Email: <strong>confidentialite@hibabank.ma</strong><br>
+            Email: <strong>confidentialite@A&Hbank.ma</strong><br>
             Téléphone: <strong>+212 5 22 123 456</strong>
         </p>
     </div>
